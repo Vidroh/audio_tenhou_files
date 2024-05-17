@@ -1,7 +1,11 @@
 {
-    "ver":1.0,
-    "se":{
-      "35":{"url":"https://files.riichi.moe/mjg/game%20resources%20and%20tools/Mahjong%20Soul/game%20files/character%20voices/Shiroko/action%20-%20tsumo.mp3"},
-      "41":{"url":"https://www.myinstants.com/media/sounds/tomiii.mp3"}
+    "ver": "1.0",
+    "se": {
+        "25":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_pon.mp3"},
+        "27":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_kan.mp3"},
+        "29":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_chii.mp3"},
+        "31":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_riichi.mp3"},
+        "33":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_ron.mp3"},
+        "35":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_tsumo.mp3"},
     }
-  }
+}
