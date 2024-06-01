@@ -1,11 +1,11 @@
 {
     "ver": "1.0",
     "se": {
-        "25":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_pon.mp3"},
-        "27":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_kan.mp3"},
-        "29":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_chii.mp3"},
-        "31":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_riichi.mp3"},
-        "33":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_ron.mp3"},
-        "35":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_tsumo.mp3"},
+        "25":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_pon.wav"},
+        "27":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_kan.wav"},
+        "29":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_chii.wav"},
+        "31":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_riichi.wav"},
+        "33":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_ron.wav"},
+        "35":{"url":"https://vidroh.github.io/audio_tenhou_files/res/akagi/akagi_tsumo.wav"},
     }
 }
